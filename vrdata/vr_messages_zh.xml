@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="zh_project_title"><![CDATA[台潮盛典]]></data>
+  <data name="zh_project_author_name"><![CDATA[ryan]]></data>
+  <data name="zh_project_author_url"><![CDATA[http://www.vidol.tv]]></data>
+
+
+  <data name="zh_panogroup12295_title"><![CDATA[台灣歌謠的美麗與憂愁]]></data>
+
+  <data name="zh_pano12289_title"><![CDATA[2019-04-26現代_Camera_C70]]></data>
+  <data name="zh_spotpicture12380_tooltip"><![CDATA[多元創新台語歌時代]]></data>
+  <data name="zh_spotpicture12380displaywebvideovideoid"><![CDATA[dy1UfOXdU0A]]></data>
+  <data name="zh_spotpicture12521_tooltip"><![CDATA[朱約信_傲骨人生]]></data>
+  <data name="zh_spotpicture12629_tooltip"><![CDATA[謝銘祐_台南]]></data>
+  <data name="zh_spotpicture12630_tooltip"><![CDATA[黃文星_天地]]></data>
+  <data name="zh_spotpicture12631_tooltip"><![CDATA[孫淑媚_愛到坎站]]></data>
+  <data name="zh_spotpicture12632_tooltip"><![CDATA[李愛綺_微風·城市]]></data>
+  <data name="zh_spotpicture12633_tooltip"><![CDATA[林強_向前走]]></data>
+  <data name="zh_pano12288_title"><![CDATA[2019-04-26現代_Camera_B70]]></data>
+  <data name="zh_spotpoint12333_tooltip"><![CDATA[台語歌曲的復甦與能量]]></data>
+  <data name="zh_spotpicture12381_tooltip"><![CDATA[台客與浪人]]></data>
+  <data name="zh_spotpicture12381displaywebvideovideoid"><![CDATA[dUwT6IQEkSU]]></data>
+  <data name="zh_pano12287_title"><![CDATA[2019-04-26現代_Camera_A70]]></data>
+  <data name="zh_spotpicture12346_tooltip"><![CDATA[秀蘭瑪雅_偷藏]]></data>
+  <data name="zh_spotpicture12347_tooltip"><![CDATA[蔡振南 南歌]]></data>
+  <data name="zh_spotpicture12382_tooltip"><![CDATA[新臺語歌運動]]></data>
+  <data name="zh_spotpicture12382displaywebvideovideoid"><![CDATA[eyVxTl98bqQ]]></data>
+  <data name="zh_spotpicture12639_tooltip"><![CDATA[logo]]></data>
+  <data name="zh_spotpicture12769_tooltip"><![CDATA[江蕙_半醉半清醒]]></data>
+  <data name="zh_spotpicture12772_tooltip"><![CDATA[陳小雲_愛情恰恰]]></data>
+  <data name="zh_spotpicture12773_tooltip"><![CDATA[張艾莉_艾莉，愛你]]></data>
+  <data name="zh_spotpicture12778_tooltip"><![CDATA[王識賢 情難忘]]></data>
+  <data name="zh_spotpicture12781_tooltip"><![CDATA[黃乙玲_唱乎自己聽]]></data>
+  <data name="zh_spotpicture12782_tooltip"><![CDATA[洪榮宏風風雨雨這多年]]></data>
+
+  <data name="zh_panogroup12291_title"><![CDATA[台語歌曲的復甦與能量]]></data>
+
+  <data name="zh_pano12284_title"><![CDATA[2019-04-26復古_Camera_B70]]></data>
+  <data name="zh_spotpicture12397_tooltip"><![CDATA[歌廳秀黃金年代]]></data>
+  <data name="zh_spotpicture12397displaywebvideovideoid"><![CDATA[KxNH08c-Kwo]]></data>
+  <data name="zh_spotpicture12398_tooltip"><![CDATA[台灣歌謠史的兩大王者]]></data>
+  <data name="zh_spotpicture12398displaywebvideovideoid"><![CDATA[ov8EHi0S3AU]]></data>
+  <data name="zh_pano12283_title"><![CDATA[2019-04-26復古_Camera_A70]]></data>
+  <data name="zh_spotpoint12343_tooltip"><![CDATA[台潮盛典-演唱會]]></data>
+  <data name="zh_spotpoint12343openurlwebsiteurl"><![CDATA[https://acts.setn.com/event/tpop2019/live.html]]></data>
+  <data name="zh_spotpicture12399_tooltip"><![CDATA[戒嚴禁歌時期]]></data>
+  <data name="zh_spotpicture12399displaywebvideovideoid"><![CDATA[gDwQAiPXrCA]]></data>
+  <data name="zh_spotpicture12406_tooltip"><![CDATA[台灣歌謠的崛起]]></data>
+  <data name="zh_spotpicture12406displaywebvideovideoid"><![CDATA[WC_G7x8RXFQ]]></data>
+  <data name="zh_pano12285_title"><![CDATA[2019-04-26復古_Camera_C70]]></data>
+  <data name="zh_spotpicture12365_tooltip"><![CDATA[文夏]]></data>
+  <data name="zh_spotpicture12366_tooltip"><![CDATA[文夏]]></data>
+  <data name="zh_spotpicture12369_tooltip"><![CDATA[文夏]]></data>
+  <data name="zh_spotpicture12405_tooltip"><![CDATA[紀露霞]]></data>
+  <data name="zh_spotpicture12783_tooltip"><![CDATA[洪榮宏]]></data>
+  <data name="zh_spotpicture12784_tooltip"><![CDATA[洪一峰]]></data>
+  <data name="zh_spotpicture12785_tooltip"><![CDATA[黃西田_叫我怎樣活下去]]></data>
+  <data name="zh_spotpicture12786_tooltip"><![CDATA[陳一郎_行船人純情曲]]></data>
+  <data name="zh_spotpicture12787_tooltip"><![CDATA[陳一郎]]></data>
+  <data name="zh_spotpicture12789_tooltip"><![CDATA[黃西田_酒店門前]]></data>
+  <data name="zh_spotpicture12791_tooltip"><![CDATA[陳雷_懷念你媽媽]]></data>
+  <data name="zh_spotpicture12792_tooltip"><![CDATA[陳雷_最佳男主角]]></data>
+  <data name="zh_spotpicture12793_tooltip"><![CDATA[紀露霞_悲戀公路]]></data>
+  <data name="zh_spotpicture12794_tooltip"><![CDATA[文夏]]></data>
+  <data name="zh_spotpicture12796_tooltip"><![CDATA[文夏]]></data>
+  <data name="zh_spotpicture12797_tooltip"><![CDATA[洪榮宏_天無絕人之路]]></data>
+  <data name="zh_spotpicture12798_tooltip"><![CDATA[洪榮宏_一支小雨傘]]></data>
+  <data name="zh_spotpicture12799_tooltip"><![CDATA[黃西田]]></data>
+  <data name="zh_pano12286_title"><![CDATA[2019-04-26復古_Camera_D70]]></data>
+  <data name="zh_spotpoint12334_tooltip"><![CDATA[台語歌曲的復甦與能量]]></data>
+  <data name="zh_spotpicture12395_tooltip"><![CDATA[台語布袋戲歌曲代表歌手]]></data>
+  <data name="zh_spotpicture12395displaywebvideovideoid"><![CDATA[K5MO1NbMksc]]></data>
+  <data name="zh_spotpicture12396_tooltip"><![CDATA[歌廳秀全盛時期的代表歌手]]></data>
+  <data name="zh_spotpicture12396displaywebvideovideoid"><![CDATA[y3kxWdX-Cyo]]></data>
+
+
+
+
+
+
+  <data name="zh_controlBar_classicplayVideoTip"><![CDATA[Play]]></data>
+  <data name="zh_controlBar_classicpauseVideoTip"><![CDATA[Pause]]></data>
+  <data name="zh_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="zh_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="zh_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="zh_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="zh_controlBar_classicautotourOnTip"><![CDATA[Start automatic tour]]></data>
+  <data name="zh_controlBar_classicautotourOffTip"><![CDATA[Stop automatic tour]]></data>
+  <data name="zh_controlBar_classicsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="zh_controlBar_classicsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="zh_controlBar_classicshowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="zh_controlBar_classichideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="zh_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="zh_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="zh_controlBar_classicgyroOnTip"><![CDATA[Enable gyroscope]]></data>
+  <data name="zh_controlBar_classicgyroOffTip"><![CDATA[Disable gyroscope]]></data>
+  <data name="zh_controlBar_classicgyroNotTip"><![CDATA[Gyroscope is unavailable]]></data>
+  <data name="zh_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="zh_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="zh_socialButtonsocial_href"><![CDATA[https://www.facebook.com/vidol.tv/]]></data>
+  <data name="zh_socialButtonfb_appid"><![CDATA[]]></data>
+  <data name="zh_socialButtonfb_ref"><![CDATA[]]></data>
+  <data name="zh_socialButton2social_href"><![CDATA[https://acts.setn.com/event/tpop2019/vr.html]]></data>
+  <data name="zh_socialButton1social_href"><![CDATA[https://acts.setn.com/event/tpop2019/vr.html]]></data>
+  <data name="zh_socialButton1fb_appid"><![CDATA[]]></data>
+  <data name="zh_socialButton1fb_ref"><![CDATA[]]></data>
+  <data name="zh_button4tooltip"><![CDATA[超級紅人榜]]></data>
+  <data name="zh_button4onclick102934openurlwebsiteurl"><![CDATA[https://www.facebook.com/set.superred/]]></data>
+  <data name="zh_button3tooltip"><![CDATA[三立新聞網]]></data>
+  <data name="zh_button3onclick102934openurlwebsiteurl"><![CDATA[https://www.setn.com/]]></data>
+  <data name="zh_buttontooltip"><![CDATA[vidol]]></data>
+  <data name="zh_buttononclick102263openurlwebsiteurl"><![CDATA[https://vidol.tv/]]></data>
+  <data name="zh_button1tooltip"><![CDATA[台潮盛典官網]]></data>
+  <data name="zh_button1onclick102200openurlwebsiteurl"><![CDATA[https://acts.setn.com/event/tpop2019/index.html]]></data>
+
+
+  <data name="zh_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="zh_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="zh_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="zh_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="zh_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="zh_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="zh_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="zh_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="zh_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="zh_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="zh_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="zh_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="zh_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="zh_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="zh_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="zh_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="zh_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="zh_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="zh_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="zh_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="zh_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="zh_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="zh_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="zh_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="zh_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="zh_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="zh_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="zh_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="zh_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="zh_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+  <data name="zh_project_description"><![CDATA[<p style="margin: 0.5em 0px; line-height: inherit; color: rgb(34, 34, 34); font-family: sans-serif; font-size: 15.008px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">臺語流行音樂，出產於臺灣並使用臺灣話（臺灣閩南語）演唱的流行音樂，透過線上VR導覽，帶領觀眾一起進入臺語歌文化發展的時光隧道。</p>]]></data>
+
+
+
+  <data name="zh_spotpoint12375_description"><![CDATA[點選畫框可播放影片，停止影片後點選空白處可關閉影音返回VR導覽。]]></data>
+  <data name="zh_spotpoint12385_description"><![CDATA[點選相框可放大圖片與說明註解，再次點擊即可關閉。]]></data>
+  <data name="zh_spotpicture12521_description"><![CDATA[1994年，本名朱約信的臺灣民謠歌手，化身豬頭皮推出首張個人專輯「笑魁唸歌－我是神經病」，將西洋的嘻哈曲風巧妙運用在臺語歌曲中。豬頭皮以夾雜臺語、客語、國語、日語及英語的唸歌方式，真實呈現出社會底層小人物的生活百態，無論在詞曲創作上皆有其獨特之處。之後，豬頭皮陸續推出《笑魁唸歌貳－外好汝甘知》、《笑魁唸歌參－我家是瘋人院》、《和諧的夜晚OAA》、《小豬頭皮的遊樂場》及《傲骨人生》等專輯，並以《傲骨人生》專輯獲得金曲獎第11屆最佳方言男演唱人獎，]]></data>
+  <data name="zh_spotpicture12629_description"><![CDATA[<div>謝銘祐是資深音樂製作人，也是詞曲創作人，在音樂圈已打滾25年，他替故鄉台南創作許多歌，2013年以專輯《台南》獲得24屆金曲獎「最佳台語專輯」與「最佳台語男歌手」。2015年以《也獸》專輯入圍第26屆金曲獎「最佳台語男歌手獎及「最佳台語專輯獎」，2016年以《生份的情歌》作品入圍第27屆金曲獎「最佳作詞人獎」，</div><div>2017年以《舊年》專輯入圍第28屆金曲獎「最佳台語專輯獎」並獲得「最佳台語男歌手獎」。</div>]]></data>
+  <data name="zh_spotpicture12630_description"><![CDATA[2007年參加友松製作，三立電視與台灣電視公司聯合監製的台灣電視選秀節目《超級偶像》，2008年6月7日黃文星榮獲《超級偶像》第一屆亞軍頭銜。節目結束後開始進入演藝生涯，2008年9月參演中視偶像劇《我的億萬麵包》，至2010年已成為影視歌三棲全方位藝人。2010年7月9日發行個人首張專輯《天地》，並於2011年榮獲第22屆金曲獎流行音樂類「台語男歌手獎」。]]></data>
+  <data name="zh_spotpicture12631_description"><![CDATA[<div>孫淑媚於國中時期參加三立影視《21世紀新人歌唱排行榜》，1995年3月兒童組過關，當時年僅14歲，是《21世紀新人歌唱排行榜》出身歌手裡最有名、在演藝圈發展最好、最具代表性的歌手。《21世紀新人歌唱排行榜》每次比賽從五個參賽者取前三名衛冕，共要衛冕20次，當時孫淑媚創下空前絕後的紀錄：20周的比賽每一次都是第一名，這個紀錄一直無人能打破；不管是兒童組或校園組，後來的參賽者多演唱孫淑媚的歌曲，並以孫淑媚為榜樣。孫淑媚以她純熟的唱腔連續衛冕20關的第一名，與大旗唱片簽約踏上歌壇，成為台語歌壇的小天后。</div><div>2005年《愛到坎站》專輯獲得第16屆金曲獎最佳台語女歌手獎。</div>]]></data>
+  <data name="zh_spotpicture12632_description"><![CDATA[<div>李愛綺，起初唱片公司認為本名較不適合唱台語歌，而用藝名李嘉出道。發第一張唱片時年僅12歲，由於當時法律規定未成年人不能上電視節目作宣傳，因此唱片公司讓李嘉轉往夜市發展，也讓她有了台語夜市小天后之稱。</div><div>2010年參加《金曲超級星》藝人歌唱大賽，爭取發國語唱片的機會，最終獲得第七名，同時也在比賽中結識評審陳建寧，為她日後奪下金曲台語歌后鋪路。</div><div>2010年在陳建寧老師的介紹下加盟無限延伸音樂，並改用本名李愛綺發行新作品。2015年6月27日以《微風·城市》專輯獲得第26屆金曲獎最佳台語女歌手獎。</div>]]></data>
+  <data name="zh_spotpicture12633_description"><![CDATA[<div>林強「新台語歌運動」中的代表之一，打破了當時台灣製作台語歌悲情的曲風。1990年，林強以全臺語創作，結合搖滾曲風，發行「向前走」專輯，更為臺語歌曲開創一新紀元，唱片在當時大賣40萬張，《向前走》更獲得1991年金曲獎最佳年度歌曲獎。</div><div>&nbsp;《向前行》年輕人到台北打拚，開啟台語搖滾歷史，流行音樂界開始注意到新臺語歌的市場。《向前走》一曲描述從小生長在鄉鎮的臺灣囝仔，為了生活離開故鄉，前往都市追求希望理想的心情寫照，反映出當時年輕人對現實社會的感受，同時亦表露出其樂觀面對的心態。歌詞中「啥米攏勿驚」，更是呈現出充滿信心而非悲情感傷的新臺灣意識。這張專輯批判意味較少，多了不少社會人文關懷，推出後獲得市場廣大迴響，也讓林強成為年輕樂迷的偶像。此曲被許多樂團翻唱，例如五月天、董事長樂團、滅火器樂團等，也是開啟台語搖滾最重要的一首歌之一。</div><div>1992年，林強推出《春風少年兄》專輯，銷售持續大賣，同年參與製作的《少年吔，安啦！》電影原聲帶，亦獲得相當，錯的評價。當林強在歌壇上發光發熱時，他選擇放下光環，轉戰幕後替許多電影製作配樂。</div>]]></data>
+
+  <data name="zh_spotpoint12386_description"><![CDATA[點選畫框可播放影片，停止影片後點選空白處可關閉影音返回VR導覽。]]></data>
+
+  <data name="zh_spotpicture12346_description"><![CDATA[<div>秀蘭瑪雅，在1997年9月參加由三立影視所舉辦的《21世紀新人歌唱排行榜》「校園組」競賽，於1998年2月過關。隔年，便發行第一張個人專輯《友情人》，並以新人之姿入圍2000年第11屆金曲獎「最佳方言女演唱人獎」及「最佳新人獎」兩個獎項。</div><div>外表如甜姐兒般的秀蘭瑪雅，有著溫柔的嗓音及優雅且清透的聲線，在歌曲的詮釋上，精練純熟的轉音技巧是她歌唱的一大特色，但她的歌聲卻同時保有濃厚的情感意境。她獨一無二的R&amp;B唱腔，不僅在傳統中融入新意，將台語歌帶入前所未有的新境界，也讓她在歌壇中占有一席之地。出道至今，幾乎年年被提名的她，已經十六度入圍「最佳台語女歌手獎」，位居該獎項入圍次數之首，並創下連續入圍次數最多（連續十一屆）的紀錄。更曾在2004年以《偷藏》專輯，獲得第15屆金曲獎最佳台語女演唱人獎的殊榮。</div>]]></data>
+  <data name="zh_spotpicture12347_description"><![CDATA[<div>蔡振南28歲那年，決定投入台語歌寫作，替當時僅有日治時期留下的歌謠，再創作出新的聲音。1982年他寫的第一首台語歌就是成名曲《心事誰人知》，寫完歌曲後，蔡振南試著把歌送給唱片公司發行，但當時台語沒有市場，連找5家唱片公司都興趣缺缺，甚至第6家公司要求倒貼樂隊錢才幫忙錄製，蔡振南一氣之下，在1982年拿出工廠積蓄，在台中開設唱片公司「愛莉亞唱片」，著手一連串錄音、製作工作。</div><div>1994年，蔡振南製作「多桑」電影原聲帶，並使得「多桑」主題曲獲得第三十一屆金馬獎最佳電影歌曲獎項。1995年，蔡振南推出首張個人專輯「生命的太陽」，透過蔡振南沙啞而充滿情感的歌聲詮釋，極具震撼效果。專輯中《母親的名叫台灣》一曲，不僅喚醒本土意識，更觸動人們的心靈深處。蔡振南陸續推出《南歌》及《可愛可恨》等專輯，並連續奪得第八屆及第九屆金曲獎「最佳方言男演唱人」、「最佳唱片製作人獎」、「最佳專輯」等獎項獎項，本專輯更是第一張獲得金曲獎最佳專輯的台語專輯。知名代表歌曲則包括《多桑》、《空笑夢》、《異鄉悲戀夢》、《甭擱憨》及《情場憨子》等。</div><div>2005、2006連續兩年以《南歌人生》問鼎廣播金鐘獎，2017年再以《媽媽不見了》奪下金鐘獎迷你劇集男配角獎，成為相繼吳念真之後再次獲得三金的台灣藝人。</div>]]></data>
+  <data name="zh_spotpoint12387_description"><![CDATA[點選畫框可播放影片，停止影片後點選空白處可關閉影音返回VR導覽。]]></data>
+  <data name="zh_spotpoint12392_description"><![CDATA[點選像框可放大圖片與說明註解，再次點擊即可關閉。]]></data>
+  <data name="zh_spotpicture12639_description"><![CDATA[<div>1989年末，謝金燕藉由華視綜藝節目《歡樂週末派》「美腿小姐」選拔奪冠而出道， 1994年8月發行首張國語專輯《你真酷》，翌年12月轉往台語歌壇發展，至今已為台語流行音樂代表人物之一。</div><div>2002年，謝金燕受香港天后鄭秀文《眉飛色舞》一曲啟蒙，專輯加入當年前所未見的台語流行電音，隨其前衛型態、逐年走紅。經過多年再以《嗆聲》與《54321》兩張專輯主打台語嘻哈音樂，更憑《嗆聲》獲得第18屆金曲獎最佳台語女歌手獎，創下台語流行舞曲受肯的先例。</div><div>2010年，歌曲《嗶嗶嗶》混搭國語、台語、粵語與英語四種語言，2011年以《月彎彎》專輯，獲得第23屆金曲獎最佳台語女歌手獎， 2012年歌曲《造飛機》被選為十大華語金曲，也登上了日本、南韓、香港的媒體版面。而繼《嗶嗶嗶》的轟動迴響後，2013年以其參與詞曲創作的國語舞曲《姐姐》再創事業高峰，創下YouTube破3,000萬的閱覽率。2014年她以跳針舞曲《姐姐》入圍第25屆金曲獎最佳年度歌曲。</div>]]></data>
+  <data name="zh_spotpicture12769_description"><![CDATA[<div>江蕙是台灣近代最著名女歌手，以演唱臺語歌曲聞名，在臺灣樂壇創下許多紀錄，如曾破紀錄連續4屆獲得金曲獎最佳台語女歌手獎，總共5度獲得金曲獎最佳女歌手獎，2015年宣布告別歌壇，並於同年第26屆金曲獎獲頒特別貢獻獎，共獲13座金曲獎。</div><div>1999年推出的《半醉半清醒》專輯中收錄的《落雨聲》一曲與2001年推出的《江蕙同名專輯》專輯中收錄的《家後》一曲，在KTV點播的紀錄分別超過500萬次與700萬次，至今無人能出其右。而《家後》一曲因其歌詞娓娓道出為人妻對其丈夫之衷情，字字句句深入人心，深受女性歌迷喜愛，其後更在2009年第20屆金曲獎獲得「我的最愛一首歌(第10~19屆) 第一名」，另外江蕙有3張專輯賣破百萬張，其中1992年《酒後的心聲》更是賣破300萬張，臺灣銷量116萬張，為臺灣官方紀錄唯一賣破百萬張的臺語專輯。</div>]]></data>
+  <data name="zh_spotpicture12772_description"><![CDATA[有著「翹臀歌后」稱號的陳小雲，原本只是咖啡廳老闆娘，喜歡在工作時哼哼唱唱，因緣機會下被邀請至飯店駐唱，還受到唱片公司的邀約，開啟歌手之路。陳小雲推出首張專輯《舞女》，立即受到大家喜愛，但因為遇到戒嚴時期，政府覺得描繪舞廳的歌曲會敗壞風氣，所以禁唱，但卻阻止不了《舞女》的高人氣。陳小雲張張專輯熱賣，更以《愛情恰恰》獲得第四屆金曲獎最佳方言女演唱人獎，隔年更以《苦戀夢》蟬聯同一獎項，成為首位蟬聯個人演唱獎項的歌手。]]></data>
+  <data name="zh_spotpicture12773_description"><![CDATA[張艾莉在10歲參加三立新人歌唱排行榜兒童組過關。11歲與乾媽陳盈潔合唱「母子兩姐妹」收錄於《寂寞是我的名》專輯中。2009年以《乎你打敗》專輯入圍第20屆金曲獎最佳台語女演唱人獎。2012年曾以「昊晴」身分加入台語女子團體「Super 7」二軍，並擔任隊長。2017年以《風聲》入圍第28屆金曲獎最佳台語女歌手獎，2018年以《艾莉，愛你》入圍第29屆金曲獎最佳台語女歌手獎最終成功獲獎。]]></data>
+  <data name="zh_spotpicture12778_description"><![CDATA[<div>1987年，大學時期因偶然機會與學長共同組團參加ICRT《青春之星》歌唱比賽，以其學長創作曲《涼夜》進入前十強，從而被發掘進入台灣歌壇。</div><div>1989年，推出首張個人閩南語專輯《初戀海》，1991年，憑藉《浪子悲歌》入圍第3屆金曲獎最佳方言歌曲男演唱人獎，1996年，憑藉《啊！傷心的話》入圍第7屆金曲獎最佳方言歌曲男演唱人獎 ，2005年，憑藉《情難忘》獲得第16屆金曲獎最佳台語男演唱人獎，2011年，憑藉專輯《玄武英雄》入圍第22屆金曲獎最佳台語男歌手獎，並在2012年，推出首張個人國語專輯《一起去幸福》。</div>]]></data>
+  <data name="zh_spotpicture12781_description"><![CDATA[<div>&nbsp;</div><div>黃乙玲_唱乎自己聽</div><div>&nbsp;<span style="white-space:pre">	</span>黃乙玲1987年出道後，以溫婉、堅柔、深情的唱腔及曲風著稱，三十餘歲後，受佛法薰陶，唱歌轉型為淡雅溫暖、傳遞人世間的正向情愛。共四次獲得金曲獎臺語歌后，也創下首位橫跨1990年代、2000年代、2010年代都榮獲過「金曲臺語歌后」的傲人紀錄，以《感謝無情人》獲得第10屆最佳方言女演唱人獎、以《甲你作伴》獲得第17屆最佳台語女演唱人獎、以《講乎自己聽》獲得第20屆最佳台語女歌手獎、以《惦在你身邊》獲得第25屆最佳台語女歌手獎，演唱人獎得獎記錄（不分性別與語種）僅次於江蕙。代表作，有《人生的歌》、《無字的情批》、《今生愛過的人》、《海波浪》、《講什麼山盟海誓》、《愛情的酒攏袂退》、《愛你無條件》、《愛到才知痛》、《感謝無情人》、《Radio的點歌心情》、《台北Sayonara》、《惦惦》、《惦在你身邊》、《觀音菩薩略頌》與《南無觀世音》。<span style="white-space:pre">	</span>&nbsp;</div><div><br></div>]]></data>
+  <data name="zh_spotpicture12782_description"><![CDATA[洪榮宏多次獲得金曲獎殊榮，在1990年以《風風雨雨這多年》獲得第2屆最佳男演唱人、1993年以《春天哪會這呢寒》獲得第5屆最佳方言歌曲男演唱人獎，1996年以《若是我回頭來牽你的手》獲得第7屆最佳方言歌曲男演唱人獎以及1996年以《愛的一生》獲得第7屆最佳專輯製作人獎。]]></data>
+
+
+
+  <data name="zh_spotpoint12390_description"><![CDATA[點選畫框可播放影片，停止影片後點選空白處可關閉影音返回VR導覽。]]></data>
+  <data name="zh_spotpoint12391_description"><![CDATA[點選畫框可播放影片，停止影片後點選空白處可關閉影音返回VR導覽。]]></data>
+
+  <data name="zh_spotpoint12408_description"><![CDATA[點選畫框可播放影片，停止影片後點選空白處可關閉影音返回VR導覽。]]></data>
+  <data name="zh_spotpoint12409_description"><![CDATA[點選畫框可播放影片，停止影片後點選空白處可關閉影音返回VR導覽。]]></data>
+
+  <data name="zh_spotpicture12365_description"><![CDATA[<div>1960年，文夏32歲，正值創作力最旺盛的年紀，他的《媽媽我也真勇健》、《媽媽請你也保重》等歌曲相繼被警備總部以「思鄉情怯，擾亂軍心，減損士氣，阿兵哥不能想媽媽」的理由查禁，一禁禁了30年，直到1987年解嚴後才解禁。</div><div>據禁歌史研究者李坤城的研究，在台灣戒嚴的38年間，歌曲被禁最多的就是文夏，一共被禁了99首歌曲。</div>]]></data>
+  <data name="zh_spotpicture12366_description"><![CDATA[文夏是台灣一九五○，六○年代的台語歌手，本名王瑞河出生於台南，母親開了一家「文化洋裁補習班」，因為母親的店名，小時候鄰居都叫他「文化、文化」，台語諧音聽起來就像「文夏」，因此成為他日後的藝名。他代表了中年以上兩代台灣人對台語歌時代的集體記憶。是公認的「二王一后」(文夏、洪一峰和紀露霞)之首，戰後台灣歌謠史裡的王者，也是其中音樂活動時間最長，產量最多與傳唱最久的歌手;他更是台灣流行音樂界少見能集歌手、作詞、作曲、演奏者和電影明星和電影編劇於一身的全能巨星。]]></data>
+  <data name="zh_spotpicture12369_description"><![CDATA[1962-1972年間是他的結合台灣歌謡和台語片電影的歌謡藝術全盛時期；他的第一部電影為【台北之夜】，當電影上映後，他便帶著他組成的「文夏四姊妹」五個團員隨片登台演出﹔暑假期間，他就開著車載著那時才七、八歲的文香、文鶯、文雀、文鳳，從早場趕到午夜場，幾乎沒有喘息的時間。隨片登台的點子也是文夏第一個實行的。電影主角同時隨片登台，全台巡迴演唱；平均每年拍攝一部台語歌唱片，經過十一年的巡迴，紅遍寶島成為著名台語男歌星，奠定了「寶島歌王」的地位。]]></data>
+  <data name="zh_spotpoint12393_description"><![CDATA[點選相框可放大圖片與說明註解，再次點擊即可關閉。]]></data>
+  <data name="zh_spotpoint12394_description"><![CDATA[點選相框可放大圖片與說明註解，再次點擊即可關閉。]]></data>
+  <data name="zh_spotpicture12405_description"><![CDATA[<div>1936年出生，原名邱秋英，1961年結婚後從養父的姓改名為紀秋英。1965年獲得第二屆台語片影展最佳歌唱獎，也因金馬獎沒有設立個人歌唱獎項，使她成為臺灣唯一電影歌唱獎得主；2017年第28屆金曲獎獲頒「特別貢獻獎」。</div><div>1955年進入歌壇的紀露霞是台灣第一位國、台、英、日語等四聲帶的全能紅歌手，因為歌聲特殊，低調並具有語言天才，迅速竄紅。藉由廣播等媒體，成為家喻戶曉的歌手。「寶島歌后」紀露霞，是台灣戰後第一個名聞全國的歌后，曾在淡水河邊的露天歌廳、台北碧雲天、新南陽、萬國聯誼社、新生社…等地駐唱，也先後在民聲電台、民本電台、中廣、正聲等電台演唱，唱紅《黃昏嶺》《孤戀花》《望你早歸》，與文夏、洪一峰，並稱「二王一后」。侯季然的電影《小夜曲》就是以她為原型。</div>]]></data>
+  <data name="zh_spotpicture12783_description"><![CDATA[<div>洪榮宏的台語歌曲，曾膾炙人口、有不少成名作，如「一支小雨傘」，橫掃台灣的各個角落，他還是台灣歌壇CD唱片銷售紀錄保持人。他與弟弟洪敬堯共同獲得金曲獎最佳音樂製作人獎，&nbsp;</div><div>「洪氏三兄弟」在台灣歌壇都是名人，洪榮宏、洪敬堯、洪榮良都承襲了父親洪一峰的音樂細胞。洪榮宏是長子，洪一峰在36歲壯年時生下他，從小刻意栽培，他不負眾望，成為80年代台語歌壇結合偶像與實力的第一人。洪敬堯說：「印象最深的是，小時候，哥哥就上了“綜藝一百”排行榜，而且是第一名，這是台語歌曲從來沒有過的。」在8大「台灣紅歌星」綜藝節目中洪榮宏主持演唱，洪敬堯音樂總監，洪榮良製作節目，創下了「洪氏三兄弟」合作奇蹟式的佳績。</div><div>洪氏三兄弟音樂奇才</div>]]></data>
+  <data name="zh_spotpicture12784_description"><![CDATA[<div>洪一峰（1927－2010），本名洪文路，初出道時藝名為洪文昌，知名台語歌曲創作家。</div><div>16歲時在淡水碼頭以及籃匡會（台灣傳統的趕集活動）賣唱維生，為了讓大眾知道自己寫的歌，洪一峰自己畫插畫，自己刻版印刷歌仔簿。十九歲那一年，自譜詞曲寫下《蝶戀花》，以《淡水暮色》、《舊情綿綿》、《可憐的戀花再會》等經典台語歌曲聞名全台，奠定了洪一峰在歌唱界的地位，與當時紅透半邊天的文夏並稱為「寶島歌王」，一個高音，一個低音。</div><div>自19歲所創作的《蝶戀花》開始，洪一峰以自身對臺灣歌謠的熱情，到2010年辭世，已知所創作的歌曲達160首之多，其數量更隨著學者研究與洪一峰家人的發現持續增加，2004年，總統陳水扁在「台灣之歌頒獎典禮」上特別頒發獎狀，表揚他對台語歌壇的貢獻，並尊稱他為「台灣國寶」，並在2010年獲得第21屆金曲獎特別貢獻。其長子洪榮宏亦為知名歌手，洪榮良則是繪畫家。</div>]]></data>
+  <data name="zh_spotpicture12785_description"><![CDATA[2002年以專輯《英雄》第13屆金曲獎最佳方言男演唱人獎。演唱過多首知名歌曲，包括《田莊兄哥》、《流浪到台北》、《喜酒甜茶》、《賣菜義仔》、《恨你恨到死》、《姻緣路》、《十八姑娘》、《哈哈兩兄弟》、《夢妳的夢》、《放伴洗身軀》等。]]></data>
+  <data name="zh_spotpicture12786_description"><![CDATA[<div>陳一郎，本名陳銘農，有「酒國歌王」稱號。陳一郎，以《行船人的純情曲》一曲走紅歌壇。這首歌為夏進在先生填詞譜曲，原名為《討海人的心聲》，經由唱片公司買下版權後更名為《行船人純情曲》。</div><div>陳一郎的歌聲滄桑質樸，帶有濃厚的鄉土味，歌唱的風格相較於同時期的台語男歌手是比較“土直”的，在其鄉土滄桑的獨特嗓音詮釋下，很快得便獲得市場廣大迴響，也奠定他在80年代臺語歌壇的地位。</div>]]></data>
+  <data name="zh_spotpicture12787_description"><![CDATA[<div>陳一郎的歌充滿「海港」、「紅燈」、「討賺」等意象，經常獲得工人及漁民們的共鳴，而他鄉土質樸的性格，使陳一郎成為1980年代鄉村移往都市的中下藍領階級者的代表。</div><div>在1980年代臺灣都市的工地，工人時常邊播放著陳一郎的歌曲，一邊作工，或者送運貨物。在海口的討海人，不論是漁民或水手，更對陳一郎的歌曲感到共鳴。可以說，在1980年代的臺灣，只要有工地，有海港，就一定有陳一郎的歌聲。</div><div>陳一郎其他知名代表歌曲包括：《阿郎阿郎》、《酒女酒女》、《我來安慰你》、《再會乾一杯》、《懷念的行船人》及《何必來犧牲》等。</div>]]></data>
+  <data name="zh_spotpicture12789_description"><![CDATA[黃西田2006年，憑《草地狀元》獲得金鐘獎「最佳社區綜藝主持人」。並在2011，應台中廣播邀請於國立中興大學惠蓀堂舉辦入行50年首場演唱會，連續兩天的演唱會總共六千四百張門票全部銷售一空；後來移師台北再辦兩場，同樣爆滿。]]></data>
+  <data name="zh_spotpicture12791_description"><![CDATA[陳雷有多次入圍金曲獎的記錄，2006年以《愛情衝衝衝》入圍第17屆最佳台語男演唱人獎、2007年以《人在江湖》入圍第18屆最佳台語男歌手獎、2009年以《愛你的日子》入圍第20屆最佳台語男歌手獎、2010年以《紅葉》入圍第21屆最佳台語男歌手獎以及2016年以《懷念你媽媽》入圍第27屆最佳台語男歌手獎。]]></data>
+  <data name="zh_spotpicture12792_description"><![CDATA[<div>陳雷，本名陳武雄，早年曾任空調風管工人。1991年，陳雷被金圓唱片發掘進入歌壇，早期的造型突出，招牌的帽子、眼鏡、短褲、白長襪配黑皮鞋，具有喜感。親切靦腆的笑容，加上來自鄉村的草根性及台灣國語，使他成為家喻戶曉的歌星。經典歌曲為唱出上班族心聲的《風真透》、表達積極人生觀的《歡喜就好》等等。</div><div>1994年，陳雷在金圓唱片發行的專輯《歡喜就好》創下銷售百萬張佳績。2004年，陳雷在新加坡舉辦萬人演唱會，成為第一位在新加坡開大型演唱會的台語歌手。2005年，陳雷受中國中央電視台邀請，成為第一位在中國中央電視台歌唱節目《同一首歌》演唱的閩南語歌手。而《歡喜就好》成為兩岸票選閩南語十大經典名曲之一。</div><div>2014年5月，陳雷在乾坤影視發行首張國語專輯《猴賽雷》，主打歌《猴賽雷》是陳雷第一首國語電音舞曲。</div>]]></data>
+  <data name="zh_spotpicture12793_description"><![CDATA[<div>&nbsp;</div><div>紀露霞3&nbsp;</div><div>&nbsp;<span style="white-space: pre;">	</span>1936年出生，原名邱秋英，1961年結婚後從養父的姓改名為紀秋英。1965年獲得第二屆台語片影展最佳歌唱獎，也因金馬獎沒有設立個人歌唱獎項，使她成為臺灣唯一電影歌唱獎得主；2017年第28屆金曲獎獲頒「特別貢獻獎」。</div><div>1955年進入歌壇，紀露霞是台灣第一位國台語雙聲帶的紅歌手，因為歌聲特殊，低調並具有語言天才，迅速竄紅。藉由廣播等媒體，成為家喻戶曉的歌手。「寶島歌后」紀露霞，是台灣戰後第一個名聞全國的歌后，唱紅《黃昏嶺》《孤戀花》《望你早歸》，與文夏、洪一峰，並稱「二王一后」。侯季然的電影《小夜曲》就是以她為原型。<span style="white-space: pre;">	</span>&nbsp;</div><br>]]></data>
+  <data name="zh_spotpicture12794_description"><![CDATA[2012年獲金曲獎特別貢獻獎的文夏，出過近百張唱片，灌錄1200多首歌曲，開過上萬場演唱會，紅遍好幾個十年，其多產迄今台灣歌謠界無人能出其左右，又演出十一部電影，並擔任其中五部的編劇。往昔在歌壇有「北洪一峰，南文夏」的說法，文夏可說是全才型藝人，除了演唱之外還作詞作曲，17歲高中時作曲，創作第一首歌《漂浪之女》；後來以筆名「愁人」作詞的《媽媽請你也保重》、《黃昏的故鄉》、《彼個小姑娘》等，至今仍傳唱無數。]]></data>
+  <data name="zh_spotpicture12796_description"><![CDATA[<div>台灣第一家唱片公司「亞洲唱片」所出的首張唱片，就是文夏作曲並親自演唱的「飄浪之女」；接著，文夏又找來四位甜美的長髮女孩，分別是文香、文鳳、文雀、文鶯，組成四鳳一凰的文夏四姊妹合唱團，四處巡迴登台演唱，文香後來成為文夏的妻子。</div><div>早期文夏不但整理日本曲以及台灣作曲家在日據時代的創作，他還將它們重新編曲翻唱，曲風多元，《媽媽請你也保重》、《黃昏的故鄉》等紅極一時的歌曲，都是經過文夏的填詞詮釋後，再隨著他的歌聲傳遍台灣大街小巷&nbsp;</div>]]></data>
+  <data name="zh_spotpicture12797_description"><![CDATA[洪家兄弟共同製作主持的「台灣紅歌星」讓洪榮宏在2002年、2003年獲得金鐘獎第37和38屆歌唱音樂綜藝節目主持人獎，並於2001年獲得最佳綜藝節目金鐘獎項]]></data>
+  <data name="zh_spotpicture12798_description"><![CDATA[<div>洪榮宏是臺灣知名臺語流行音樂男歌手、主持人，為臺語歌壇「寶島歌王」洪一峰的長子，洪榮宏出生在音樂世家，從3歲開始，小洪榮宏一起床就練嗓、彈琴，每天只得玩樂1小時；5歲和父親洪一峰出唱片，當童星；9歲出第一張唱片《孤兒淚》；13歲時就隨父親到日本，一個人在那裡受了3年的音樂特訓，19歲時以一首《一支小雨傘》成名。</div><div>19歲出版《一支小雨傘》唱片，造就他今日在台語歌唱界的成就，1991、1993、1996獲得3次金曲獎最佳台語男歌手獎，是1990-2013年間獲得金曲獎最佳台語男歌手獎次數最多的男歌手，1990年獲得金曲獎最佳國語男歌手獎。為台語歌曲在台灣音樂界地位的確立有重要貢獻</div>]]></data>
+  <data name="zh_spotpicture12799_description"><![CDATA[<div>黃西田，本名黃日平，為台灣資深台語男歌手、演員、主持人，他親切爽朗的笑容，絲毫沒有大牌歌手的架子， 深受觀眾喜愛。</div><div>1970年，從軍中退伍，與海山唱片簽約；同年間，常在台北圓環附近的國聲酒店駐唱， 1972年，常駐高雄市藍寶石歌廳表演，後和康弘搭檔演出，成為歌廳秀時期的重要代表人物。之後更一起搭檔主持台視的綜藝節目「飛越彩虹」，合作默契純熟，可說是台灣演藝史的「活寶典」。</div>]]></data>
+
+  <data name="zh_spotpoint12388_description"><![CDATA[點選畫框可播放影片，停止影片後點選空白處可關閉影音返回VR導覽。]]></data>
+  <data name="zh_spotpoint12389_description"><![CDATA[點選畫框可播放影片，停止影片後點選空白處可關閉影音返回VR導覽。]]></data>
+
+</krpano>
